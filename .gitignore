@@ -1,0 +1,5 @@
+### Jupyter Notebook ###
+
+*.DS_STORE
+*.idx
+*.ipynb_checkpoints
