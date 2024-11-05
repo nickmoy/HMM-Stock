@@ -1,0 +1,7 @@
+# HMM
+A Hidden Markov Model to predict stock market prices written from scratch in python using Jupyter Notebook.
+Requires the use of the Polygon API for stock data. Create an account and paste your API key into the line
+
+`self.api_key = "PASTE-YOUR-API-KEY-HERE"`
+
+in the file finance_data.ipynb. Then simply run the cells in the file HMM.ipynb.
